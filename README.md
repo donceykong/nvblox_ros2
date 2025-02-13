@@ -1,8 +1,8 @@
+*Note: This package has just begun development.*
+
 ![nvblox](docs/images/nvblox_logo_64.png)
 
-![Signed Distance Functions (SDFs) on NVIDIA GPUs](docs/images/3dmatch.gif)
-
-*Note: This package has just begun development.*
+<!-- ![Signed Distance Functions (SDFs) on NVIDIA GPUs](docs/images/3dmatch.gif) -->
 
 A GPU SDF library which offers
 * GPU accelerated algorithms such as:

@@ -1,5 +1,7 @@
 *Note: This package has just begun development.*
 
+The current set-up for this is ROS2 Humble and cuda 12.04.
+
 ![nvblox](docs/images/nvblox_logo_64.png)
 
 <!-- ![Signed Distance Functions (SDFs) on NVIDIA GPUs](docs/images/3dmatch.gif) -->

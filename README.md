@@ -2,6 +2,8 @@
 
 ![Signed Distance Functions (SDFs) on NVIDIA GPUs](docs/images/3dmatch.gif)
 
+*Note: This package has just begun development.*
+
 A GPU SDF library which offers
 * GPU accelerated algorithms such as:
   * TSDF construction

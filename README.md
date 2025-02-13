@@ -2,6 +2,10 @@
 
 The current set-up for this is ROS2 Humble and cuda 12.04.
 
+To build locally, I am using:
+
+>> cmake .. -DCMAKE_CUDA_ARCHITECTURES=89 -DCMAKE_CUDA_COMPILER=/usr/local/cuda/bin/nvcc
+
 ![nvblox](docs/images/nvblox_logo_64.png)
 
 <!-- ![Signed Distance Functions (SDFs) on NVIDIA GPUs](docs/images/3dmatch.gif) -->

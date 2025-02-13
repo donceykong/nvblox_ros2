@@ -4,7 +4,13 @@ The current set-up for this is ROS2 Humble and cuda 12.04.
 
 To build locally, I am using:
 
->> cmake .. -DCMAKE_CUDA_ARCHITECTURES=89 -DCMAKE_CUDA_COMPILER=/usr/local/cuda/bin/nvcc
+```bash
+mkdir build
+cd build
+cmake .. -DCMAKE_CUDA_ARCHITECTURES=89 -DCMAKE_CUDA_COMPILER=/usr/local/cuda/bin/nvcc
+make
+```
+
 
 ![nvblox](docs/images/nvblox_logo_64.png)
 
